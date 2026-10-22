@@ -10,15 +10,15 @@ This project analyzes Shopify App Store data to better understand app reviews, c
 
 ## Key Insight
 
-The dashboard provides visibility into total reviews and how review activity changes across different years. Year-to-date and previous-year measures allow stakeholders to examine trends and identify periods that may warrant further investigation.
+The Shopify App Store dashboard analyzes 500 apps and approximately 8,000 reviews. The average app rating is 4.19 out of 5, while the developer reply rate is 24.8%, indicating that fewer than one in four reviews receive a developer response. Review activity also increases substantially over time, particularly in the later reporting years, suggesting growing customer engagement with Shopify apps.
 
 ## Business Impact
 
-Understanding review trends can help businesses monitor customer engagement, recognize changes in app feedback, and make more informed decisions about app performance.
+The dashboard highlights opportunities to improve customer engagement and developer responsiveness. Although the average app rating is 4.19 out of 5, the developer reply rate of 24.8% suggests that many customer reviews do not receive a response. Monitoring review volume, ratings, and developer replies can help stakeholders identify areas for improvement and prioritize customer support efforts.
 
 ## Recommendation
 
-Review the dashboard regularly to identify meaningful changes in review activity. Investigate significant increases or decreases alongside app ratings, customer feedback, and other business metrics before making decisions.
+Shopify app developers should prioritize improving their response rates to customer reviews, particularly for apps receiving high review volumes or lower ratings. With a developer reply rate of only 24.8%, increasing engagement with customer feedback could help improve customer satisfaction. Stakeholders should also monitor monthly review trends and compare review activity across app categories to identify emerging customer needs and opportunities for improvement.
 
 ## Dashboard Pages
 
